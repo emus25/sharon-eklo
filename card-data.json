@@ -1,0 +1,167 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-28T20:24:56.275Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Sharron ",
+      "lname": "Eklo",
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "Nordic Room",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/TwNR2kBh/eklo.png",
+      "shareImg": "https://i.postimg.cc/TwNR2kBh/eklo.png",
+      "bookMarkImg": "https://i.postimg.cc/TwNR2kBh/eklo.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#ff8e22",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#ff8e22",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "01932 343 228",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+44 7714 097953",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447714097953",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.nordicroom.co.uk/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/nordicroom.gardenrooms",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/nordicroomltd",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "twitter",
+        "placeholder": "https://twitter.com/UserName",
+        "value": "https://x.com/Nordicroom",
+        "color": "#000",
+        "label": "Your Twitter URL"
+      },
+      {
+        "name": "pinterest",
+        "placeholder": "https://pinterest.com/UserName",
+        "value": "https://uk.pinterest.com/nordicroomltd/",
+        "color": "#bd081c",
+        "label": "Your Pinterest URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/CSxj9oBSbXy9EBM/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
